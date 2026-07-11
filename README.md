@@ -124,7 +124,7 @@ Customer-Sales-Purchase-Behavior-Analysis/
 
 ## Dashboard Preview
 
-![Customer Sales & Purchase Behavior Dashboard](Dashboard_Screenshots/dashboard.png)
+![Customer Sales & Purchase Behavior Dashboard](Dashboard_Screenshots/Dashboard.png)
 
 ---
 
